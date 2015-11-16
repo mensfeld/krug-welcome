@@ -1,3 +1,3 @@
 # Krakow Ruby Users Group welcome presentation
 
-Open [http://mensfeld.github.io/karafka-framework-introduction](http://mensfeld.github.io/karafka-framework-introduction)
+* 17.11.2015 [http://mensfeld.github.io/krug-welcome/krug-6-2015/#/](http://mensfeld.github.io/krug-welcome/krug-6-2015/#/)
