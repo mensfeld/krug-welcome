@@ -1,3 +1,3 @@
-# Karafka – Ruby framework for building Kafka message-based applications
+# Krakow Ruby Users Group welcome presentation
 
 Open [http://mensfeld.github.io/karafka-framework-introduction](http://mensfeld.github.io/karafka-framework-introduction)
