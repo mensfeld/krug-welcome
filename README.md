@@ -1,5 +1,6 @@
 # Krakow Ruby Users Group welcome presentation
 
+* 17.10.2017 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2017-10/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2017-10/#/)
 * 23.05.2017 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2017-05/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2017-05/#/)
 * 18.04.2017 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2017-04/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2017-04/#/)
 * 21.03.2017 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2017-03/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2017-03/#/)
