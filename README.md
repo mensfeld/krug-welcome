@@ -1,5 +1,7 @@
 # Krakow Ruby Users Group welcome presentation
 
+* 14.05.2019 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-05-krk-rb/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-05-krk-rb/#/)
+* 14.05.2019 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-05-sponsors/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-05-sponsors/#/)
 * 16.04.2019 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-04/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-04/#/)
 * 12.03.2019 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-03/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-03/#/)
 * 15.02.2019 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-02/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2019-02/#/)
