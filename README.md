@@ -1,5 +1,6 @@
 # Krakow Ruby Users Group welcome presentation
 
+* 17.10.2022 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2022-05/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2022-05/#/)
 * 15.03.2022 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2022-03/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2022-03/#/)
 * 15.02.2022 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2022-02/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2022-02/#/)
 * 11.01.2022 [http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2022-01/#/](http://Krakow-Ruby-Users-Group.github.io/krug-welcome/krug-2022-01/#/)
